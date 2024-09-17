@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
 <ShameCard title="Example" content="Lorem ipsum" />
+<ShameCard title="Example" content="Lorem ipsum" />
     </div>
   );
 }
