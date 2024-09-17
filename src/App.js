@@ -4,6 +4,7 @@ import ShameCard from './components/ShameCard';
 function App() {
   return (
     <div className="App">
+<ShameCard title="Example" content="Lorem ipsum" />
     </div>
   );
 }
