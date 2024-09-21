@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hall-of-shame/static/css/main.5c65bc0c.css",
+    "main.js": "/hall-of-shame/static/js/main.0118311e.js",
+    "index.html": "/hall-of-shame/index.html",
+    "main.5c65bc0c.css.map": "/hall-of-shame/static/css/main.5c65bc0c.css.map",
+    "main.0118311e.js.map": "/hall-of-shame/static/js/main.0118311e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c65bc0c.css",
+    "static/js/main.0118311e.js"
+  ]
+}
