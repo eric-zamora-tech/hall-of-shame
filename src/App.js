@@ -8,6 +8,7 @@ function App() {
 <ShameCard title="September 24, 2024" content="...I accidentally deleted my repository thinking it was a useless project." />
 <ShameCard title="September 24, 2024" content="...my cat kept sitting on my laptop keyboard and committing random code changes." />
 <ShameCard title="September 24, 2024" content="...I accidentally pushed my cat pictures to a public repository instead of my code." />
+<ShameCard title="September 25, 2024" content="...my cat needed to use my laptop as a scratching post." />
     </div>
   );
 }
