@@ -1,4 +1,4 @@
-# Hall of Shame: A GitHub Streak Reminder App
+# Hall of Shame: A GitHub Streak Reminder Script
 
 Welcome to the Hall of Shame, where forgotten GitHub contributions go to rest (or rather, to roast). This project is your personal accountability buddy, ensuring that no day passes without pushing code — or at least acknowledging your negligence with a shameful card.
 
