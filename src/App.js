@@ -9,6 +9,7 @@ function App() {
 <ShameCard title="October 3, 2024" content="...my cat decided to take a nap on my laptop keyboard and accidentally deleted all my code." />
 <ShameCard title="October 4, 2024" content="I accidentally pushed my lunch order instead of code..." />
 <ShameCard title="October 5, 2024" content="I accidentally pushed my code to a random stranger's repository..." />
+<ShameCard title="October 6, 2024" content="...my cat discovered my laptop's power button doubles as a toy and kept turning it off whenever I tried to work." />
     </div>
   );
 }
