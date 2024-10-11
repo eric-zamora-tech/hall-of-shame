@@ -14,6 +14,7 @@ function App() {
 <ShameCard title="October 8, 2024" content="...I accidentally committed my grocery list instead of my code changes!" />
 <ShameCard title="October 9, 2024" content="...my cat kept walking on my keyboard and committing random code changes." />
 <ShameCard title="October 10, 2024" content="I accidentally spent all my time rearranging my Funko Pop collection..." />
+<ShameCard title="October 11, 2024" content="...my cat learned how to delete repositories on my computer and went on a deleting spree whenever I tried to push new code." />
     </div>
   );
 }
